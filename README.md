@@ -1,3 +1,4 @@
+```bash
 Angular CLI: 19.1.5
 Node: 20.11.1
 Package Manager: npm 10.2.4
@@ -18,3 +19,4 @@ Package                         Version
 rxjs                            7.8.1
 typescript                      5.7.3
 zone.js                         0.15.0
+```
